@@ -1,6 +1,0 @@
-## Topics covered
-- Providers
-- Multi-region
-- Multi-cloud
-- Variables
-- Conditions
